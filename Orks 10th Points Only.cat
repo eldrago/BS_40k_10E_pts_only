@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="57e4-d3f4-5786-beb4" name="Orks Points Only 10E" revision="4" battleScribeVersion="2.03" authorName="Zack Coddington" authorContact="eldrago2@yahoo.com" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="249" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <readme>This is primarily points only.  Made it because I don&apos;t like using spreadsheets and I am impatient.
+I have no plans to update this, but I still might over time.</readme>
+  <selectionEntries>
+    <selectionEntry id="b5a6-923d-72eb-2b24" name="Boyz - 10" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="1595-51c1-cad1-74df" name="9 Boyz" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">NA</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">NA</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">1</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a134-6507-c1c2-4aa9" name="Nob" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">NA</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">NA</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">2</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d59e-a6e3-8132-cf19" name="OC - 2" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">OC - 2</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="2682-bc41-901c-3504" name="New CategoryLink" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="85.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="78c4-ac72-769b-2eb3" name="Beastsnaggas - 10" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="21fd-a99a-66cb-349c" name="9 Beastsnaggas" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">3+</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">5+</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">1</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705"/>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3"/>
+          </characteristics>
+        </profile>
+        <profile id="ca09-1e98-8654-9dc6" name="Beastsnagga Nob" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">NA</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">NA</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">2</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="8fb1-3f67-ea88-970d" name="Feel No Pain 6+" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228"/>
+          </characteristics>
+        </profile>
+        <profile id="196a-df9c-ffac-1ea4" name="OC - 2" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">OC - 2</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="3810-7943-e5d1-07cc" name="New CategoryLink" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="105.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bd28-25aa-6485-5e1d" name="Battlewagon" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="54a5-2af9-25e0-1106" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+        <categoryLink id="0acd-2f45-e93e-723a" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="185.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="847e-b58c-9ddf-a689" name="Beastboss" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="1a3f-8432-504c-4d26" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2bc3-98fc-5aee-b925" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="80.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="88e2-3c0a-e401-eb09" name="Ghazghkull Thraka and Makari" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="ef46-c6b9-a3b6-af9d" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="235.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7532-c4c2-5b03-9628" name="Big Mek in Mega Armour" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="937c-9a82-d06d-1195" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="ceca-f0b5-083c-5506" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="100.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e94a-86e6-ac64-edc2" name="Big Mek with Kustom Force Field" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="9aac-89f4-fdc7-5e83" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4e69-555d-7211-ca78" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="65.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ca12-1a4f-398f-7c7f" name="Big Mek with Shokk Attack Gun" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="eda8-5578-48f6-bf5f" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="9a62-483c-338e-e8c5" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="75.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a2b-a53d-5b6c-c3d3" name="Big&apos;ed Boss Bunka" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="bcc2-7f03-b40e-2f7f" name="New CategoryLink" hidden="false" targetId="d713cda3-5d0f-40d8-b621-69233263ec2a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="135.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2cf1-c4a0-00bf-3bd7" name="Blitza-Bommer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8aff-0369-b8ce-7ad2" name="New CategoryLink" hidden="false" targetId="d569-3d56-cd24-6a31" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="115.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9365-6c8b-1a30-39eb" name="Boomdakka Snazzwagon" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="782e-e88b-33ae-2f83" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="6a41-5003-b07f-278b" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="90.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4270-3dbc-6b96-3713" name="Boss Snikrot" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="5152-6d5b-93d4-bd6d" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="105.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c037-d799-24c3-9576" name="Boss Zagstruk" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="c0b9-153e-a612-4940" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="100.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c2c4-be70-caf2-3de0" name="Burna Boyz - 1 Spanner 4 Burna Boyz " hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b456-4a1c-bcb8-fa41" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="65.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="79e8-33d6-9cf2-9c73" name="Burna-Bommer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="1dd9-1498-ec09-6ae5" name="New CategoryLink" hidden="false" targetId="d569-3d56-cd24-6a31" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="125.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a879-3dc4-7a3e-dba7" name="Boyz - 20" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="3937-4764-1818-62a1" name="19 Boyz" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">NA</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">NA</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">1</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="0059-d158-ce63-b10c" name="Nob" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">NA</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">NA</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">2</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="01cc-37d5-d34f-6b5b" name="OC - 2" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">OC - 2</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="0cda-f0af-af1d-8dc2" name="New CategoryLink" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="170.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a999-71ec-621d-2e7f" name="Beastsnaggas - 20" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="0a25-db69-999e-5c16" name="19 Beast Snaggas" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">3+</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">5+</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">1</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705"/>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3"/>
+          </characteristics>
+        </profile>
+        <profile id="b474-050a-c5b0-ed9f" name="Beastsnagga Nob" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">6&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">NA</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">NA</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">NA</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">5</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">2</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">NA</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="017b-3e65-e22b-1015" name="OC - 2" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">OC - 2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="f8aa-afd4-6bce-2e64" name="Feel No Pain 6+" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="3b03-44d4-c613-88c6" name="New CategoryLink" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="210.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="448b-ab0f-5fc4-de31" name="Burna Boyz - 2 Spanners 8 Burna Boyz " hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="c31a-1a0e-1caf-5335" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="130.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="087b-29b5-0ec0-18eb" name="Burna Boyz - 3 Spanners 12 Burna Boyz " hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b8fe-1566-6ebc-4fc7" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="195.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4ec6-32df-8a2a-17d3" name="Dakkajet" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="4b74-5c06-fa91-5c03" name="New CategoryLink" hidden="false" targetId="d569-3d56-cd24-6a31" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="135.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fe99-814d-b8bc-d1e9" name="Deff Dread" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="178e-798c-0046-02ea" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+        <categoryLink id="e639-e292-50c4-3599" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="150.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4576-90f1-8023-9e40" name="Deffkilla Wartrike" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="3f23-572d-1b5c-73ce" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+        <categoryLink id="39c2-f264-6eab-b983" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="f4ab-32b2-0a8d-2a43" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="90.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2d85-ea0f-47d8-ee8c" name="Deffkoptas - 3" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="3e45-b48e-c844-bf3f" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="3fb3-f448-9acc-61e8" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="115.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f148-da31-c7d5-29c7" name="Deffkoptas - 6" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="a381-31cc-1377-b61a" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="df28-df96-af75-4515" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="230.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3a86-7178-bc5e-d762" name="Flash Gitz - 05" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8b1c-131f-58a4-9c7e" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="95.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9be8-f968-5500-1d8d" name="Flash Gitz - 10" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8e40-7153-2424-175a" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="190.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5e65-dc32-2427-78d3" name="Beastboss on Squigosaur" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f202-530f-8a1c-5d41" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="35e3-e80e-83e4-c30b" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="165.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f44e-9fc8-a60c-693e" name="Gorkanaut" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b2aa-5ba5-2085-f54f" name="New CategoryLink" hidden="false" targetId="c888f08a-6cea-4a01-8126-d374a9231554" primary="true"/>
+        <categoryLink id="27d6-0f62-14d8-723c" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="295.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b740-3702-148e-294c" name="Gretchin - 10 Grots and a Runtherd" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f183-ec56-e7a1-c3f8" name="New CategoryLink" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="45.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4a58-2a63-abac-f458" name="Gretchin - 20 Grots and a Runtherd" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="03ca-8826-7ed6-6b1d" name="New CategoryLink" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="90.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f673-0142-78a6-bb4e" name="Hunta Rig" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="e191-65b9-1e0a-afc8" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+        <categoryLink id="a4ba-1954-0c31-8357" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="180.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9a58-e362-4c07-67c2" name="Kaptain Badrukk" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="fba3-5de3-edda-ad59" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="95.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="550a-a24c-6d18-f6ca" name="Kill Rig" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8fbe-d0c6-835d-1b0e" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+        <categoryLink id="da6e-0d39-b49d-7fac" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="220.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e4af-38e7-3b82-c630" name="Killa Kans - 3" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="d0be-5720-021d-67d5" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+        <categoryLink id="a840-8d4f-427b-f066" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="150.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6ab3-aeb7-7640-ce33" name="Killa Kans - 6" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="da68-beb0-dc2e-3064" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+        <categoryLink id="68b7-9452-e8dd-16ad" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="300.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7c33-cd6e-3451-317c" name="Kommandos - 10" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f4e2-3d3a-e2a7-ef10" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="135.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fd68-ec7a-18ff-f818" name="Kustom Boosta-blasta" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="fe1f-c5b5-789e-2232" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="325b-6e5a-57fd-14b0" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="85.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0006-6c8e-1288-a5ce" name="Lootas - 1 Spanner and 4 Lootas" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="a0fb-0aa9-16a1-c179" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="55.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3db9-4bd9-06ba-c328" name="Megatrakk Scrapjet" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="e2bc-441e-baa5-8e56" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="356d-b76f-c275-2a6a" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="90.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="47e1-c847-5b91-55bf" name="Mek Gun - 1" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="517e-725a-36e1-dc73" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+        <categoryLink id="5eb8-781b-cdbf-1936" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="45.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9787-e747-d003-a411" name="Lootas - 2 Spanners and 8 Lootas" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="7fdd-258a-2ae2-a25b" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="110.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="83c1-dc0c-12a4-8d19" name="Lootas - 3 Spanners and 12 Lootas" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="7c1e-d94a-d7c8-e461" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="165.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f1d7-1f3f-f87a-b639" name="Mek Guns - 2" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8b6e-8b50-b6a4-6d8e" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+        <categoryLink id="e9c1-2212-15c3-7433" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="90.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4284-7cd1-33e5-7442" name="Mek Guns - 3" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="639f-455f-c88b-62fc" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+        <categoryLink id="b1d2-3b1b-f2b1-3b3c" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="135.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ce7-c84f-db19-a8f8" name="Mad Dok Grotsnik" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="6e81-e3c7-67bc-81b2" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="75.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="53ed-ae3c-cd15-3b18" name="Meganobz - 2" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0a57-89a7-5551-c838" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="65.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1fd8-046c-0e35-6355" name="Meganobz - 3" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="070c-836a-eb68-e87b" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="100.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="86c2-f703-25a9-f016" name="Meganobz - 5" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="5fdd-67ee-76dc-d2a4" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="165.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e123-cbe6-28a7-fc48" name="Meganobz - 6" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="d781-4f92-8659-61ba" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="200.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="29c9-4580-0cb8-bd12" name="Mekboy Workshop" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0ceb-d109-f9a8-499f" name="New CategoryLink" hidden="false" targetId="d713cda3-5d0f-40d8-b621-69233263ec2a" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="80.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b1fc-8276-94b6-a769" name="Morkanaut" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="75a3-b77e-8672-1a7b" name="New CategoryLink" hidden="false" targetId="c888f08a-6cea-4a01-8126-d374a9231554" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="305.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="519a-2ada-d17f-8d05" name="Mozgrog Skragbad" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="c089-9f10-dbb6-36bf" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="195.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="933f-9e65-71e3-055b" name="Nob on Smasha Squig" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="7123-8fa8-d008-4067" name="Character" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
+        <categoryLink id="0cb7-43cf-b74a-8861" name="Fast Attack" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="f9ff-099b-c750-3eb3" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="75.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8cc3-e2ba-6755-94ae" name="Nob with Waaagh! Banner" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="28de-776c-1a3e-b762" name="Elite Character" hidden="false" targetId="62d3-9871-9675-a63b" primary="false"/>
+        <categoryLink id="46cf-28ef-08bd-5fc8" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="70.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="858f-f3eb-ab67-6d0a" name="Nobz - 05" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0668-cd4c-d094-a1e8" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="115.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a7af-7be0-f4e6-57ff" name="Nobz - 10" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="1fb0-4dca-01ff-b374" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="230.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="eb95-7770-c1c9-fb5a" name="Painboss" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b887-ba3a-0137-740c" name="New CategoryLink" hidden="false" targetId="62d3-9871-9675-a63b" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3e4f-3a01-143d-dd8a" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="70.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8337-923e-59de-b67a" name="Painboy" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="ccdd-38ed-bd06-7c9b" name="New CategoryLink" hidden="false" targetId="62d3-9871-9675-a63b" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e9f4-6cd4-8747-d99b" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="80.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="65be-ecff-34c3-a0ab" name="Rukkatrukk Squigbuggy" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="a2f4-6039-3630-2db1" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="4fe7-b428-72c1-039f" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="110.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bdab-37d5-9a78-8c12" name="Shokkjump Dragsta" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="ca57-57d2-56a0-72e0" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+        <categoryLink id="b357-71b7-a45a-572d" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="85.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1e0e-8b07-2afb-b3ca" name="Squighog Boyz - 3" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="61c1-65e0-b3e3-e2a4" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="110.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c43f-86a0-207e-284b" name="Squighog Boyz - 6" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="1e9f-3873-9971-f002" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="220.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0fa3-a285-434e-5f04" name="Mek" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b3c5-092e-c119-023f" name="New CategoryLink" hidden="false" targetId="62d3-9871-9675-a63b" primary="false"/>
+        <categoryLink id="562e-a963-a745-9dfe" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2380-4710-5511-c0d8" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="45.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a977-f787-e676-4827" name="Stompa" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="80c1-2f0a-b4ff-1bfc" name="New CategoryLink" hidden="false" targetId="c888f08a-6cea-4a01-8126-d374a9231554" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="800.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5fa7-ddfc-60be-ec9f" name="Stormboyz - 05" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8db5-21c3-1777-40ba" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="65.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d4e3-b093-9898-365d" name="Tankbustas" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="547e-0e89-77a8-e38e" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="135.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c5e0-7b97-dd31-5fbd" name="Stormboyz - 10" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="70ff-d826-13b4-5cb5" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="65.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1375-9cbe-8a21-2611" name="Trukk" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="89e7-3665-8fcd-169c" name="New CategoryLink" hidden="false" targetId="1b66-3f5f-6705-079a" primary="true"/>
+        <categoryLink id="5426-13d0-71ce-0715" name="Vehicle" hidden="false" targetId="c8fd-783f-3230-493e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="50.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9415-22e9-4103-57ec" name="Warbikers - 3" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="20cb-dc96-7d31-7937" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="75.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6076-cb2f-205f-d568" name="Warbikers - 6" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="9059-442a-45d6-a497" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="150.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bb97-30f5-cabb-3fb5" name="Warboss" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b7a4-60f1-6a65-1240" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="c772-3b5c-649b-19a5" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="70.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4e4a-58af-cfad-3306" name="Warboss in Mega Armour" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f590-67cf-77f7-0f70" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="f640-626c-d1de-56dd" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="95.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7341-d57a-5b85-f984" name="Wierdboy" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0bdb-d18e-5574-8ddc" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="75c1-8fdb-c93c-6faa" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="55.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0333-acbf-6d82-7e67" name="Wurrboy" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="32f0-35c8-78c1-3967" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3565-e1e8-13de-81c7" name="Enhancement" hidden="false" collective="false" import="true" targetId="1658-d286-55d5-f099" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="60.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cf4e-7b04-f4f4-7670" name="Wazbom Blastajet" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b8a7-059a-9662-12fd" name="New CategoryLink" hidden="false" targetId="d569-3d56-cd24-6a31" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="175.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6640-5b6d-b6df-8053" name="Zodgrod Wortsnagga" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="c706-7ec3-bdb7-fe2a" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="80.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="1658-d286-55d5-f099" name="Enhancement" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="321d-4adb-9307-498e" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="0b42-9d0a-337b-e31b" name="Follow Me Ladz" hidden="false" collective="false" import="true" type="upgrade">
+          <profiles>
+            <profile id="c7bf-0532-af3b-e60a" name="Follow Me Ladz" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Orks model only. 
+While the bearer is leading a unit, add 2&quot; to the Move characteristic of models in that unit</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="25.0"/>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="120a-5b0b-fbab-16c4" name="Headwoppa&apos;s Killchoppa" hidden="false" collective="false" import="true" type="upgrade">
+          <profiles>
+            <profile id="b437-8edf-bdd3-7599" name="Headwoppa&apos;s Killchoppa" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Orks model only. 
+Melee weapons equipped by the bearer that do not have the [EXTRA ATTACKS] ability have the [DEVASTATING WOUNDS] ability.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="20.0"/>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d1f4-5a95-a404-7b45" name="Kunnin&apos; But Brutal" hidden="false" collective="false" import="true" type="upgrade">
+          <profiles>
+            <profile id="0f27-cd7c-7676-21c1" name="Kunnin&apos; But Brutal" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Orks model only. 
+While the bearer is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="15.0"/>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d456-bf37-acf6-c7ef" name="Supa-Cybork Body" hidden="false" collective="false" import="true" type="upgrade">
+          <profiles>
+            <profile id="c508-5f86-d25d-f575" name="Supa-Cybork Body" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Orks model only.
+The bearer has the Feel No Pain 4+ ability.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="15.0"/>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+  <sharedRules>
+    <rule id="60a1-a002-3dd8-7f20" name="Feel No Pain 6+" hidden="false"/>
+    <rule id="9d47-d5ed-11ce-1cb3" name="OC 2" hidden="false"/>
+  </sharedRules>
+  <sharedProfiles>
+    <profile id="bee4-0de7-3b81-9682" name="OC - 2" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">OC - 2</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="5fd4-2e52-cda3-78d2" name="Feel No Pain 6+" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228"/>
+      </characteristics>
+    </profile>
+  </sharedProfiles>
+</catalogue>
